@@ -1,7 +1,7 @@
-octodex-ruby
+octodex.rb
 ============
 
-A Ruby class for the Octodex API.
+A Ruby wrapper for the Octodex API.
 
 ##Use
 Use this class like any other Ruby class:
